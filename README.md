@@ -3,7 +3,7 @@
 * 🖲  Find my games at [voec.itch.io](https://voec.itch.io/)
 * 🚂 And [Glorious Trainwrecks](https://www.glorioustrainwrecks.com/games/*/pferd-am-herd)
 * 🍃 Pronouns: they/them
-* 🐍 Profile image is cover of: sperpentwithfeet - soil
+* 🐍 Profile image is cover of ```serpentwithfeet - soil```
 
 <a href="https://github.com/jstrieb/github-stats">
   
