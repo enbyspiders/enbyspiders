@@ -7,7 +7,7 @@
 <a href="https://github.com/jstrieb/github-stats">
   
 ![Spider's Github Staticists](https://github.com/voec/github-stats/blob/master/generated/overview.svg)</a>
-<a href="https://github.com/jstrieb/github-stats">![Coding Languages Used by Spiders](https://github.com/voec/github-stats/blob/master/generated/languages.svg</a>
+<a href="https://github.com/jstrieb/github-stats">![Coding Languages Used by Spiders](https://github.com/voec/github-stats/blob/master/generated/languages.svg)</a>
   
 <div align="center">   
   
