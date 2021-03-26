@@ -3,8 +3,11 @@
 * 🖲  Find my games at [voec.itch.io](https://voec.itch.io/)
 * 🚂 And [Glorious Trainwrecks](https://www.glorioustrainwrecks.com/games/*/pferd-am-herd)
 * 🍃 Pronouns: they/them
-
-![image](https://user-images.githubusercontent.com/2915643/112627952-91c44480-8e32-11eb-996b-d207c7bbb9fa.png)
+  
+    
+  
+![image](https://user-images.githubusercontent.com/2915643/112627952-91c44480-8e32-11eb-996b-d207c7bbb9fa.png)  
+  
 
 <a href="https://github.com/jstrieb/github-stats">
   
