@@ -36,7 +36,14 @@
 
 <div align="center">   
 
-![Wario's tips for summer: Trans Rights are Human Rights](https://user-images.githubusercontent.com/2915643/112627952-91c44480-8e32-11eb-996b-d207c7bbb9fa.png)  
+## Wario's Top Tips for Summer: ![wario](https://user-images.githubusercontent.com/2915643/112637764-c938ee00-8e3e-11eb-91d7-b84460134509.png)
+1. Trans rights are human rights
+2.   
+3.
+
+
+
   
 </div>
+
 
