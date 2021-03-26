@@ -4,10 +4,11 @@
 * 🚂 And [Glorious Trainwrecks](https://www.glorioustrainwrecks.com/games/*/pferd-am-herd)
 * 🍃 Pronouns: they/them
   
-    
+<div align="center">   
   
-![image](https://user-images.githubusercontent.com/2915643/112627952-91c44480-8e32-11eb-996b-d207c7bbb9fa.png)  
+![Wario's tips for summer: Trans Rights are Human Rights](https://user-images.githubusercontent.com/2915643/112627952-91c44480-8e32-11eb-996b-d207c7bbb9fa.png)  
   
+</div>
 
 <a href="https://github.com/jstrieb/github-stats">
   
