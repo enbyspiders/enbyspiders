@@ -1,5 +1,11 @@
 ### Hi there~ 🕷
 
+Do the bone grinders of eternal punishment please you?  
+Do you savour the hot domination of being enveloped by the many spiders???  
+Do you like AutoHotkey?!??!?!
+
+Then you've come to the right place.
+
 * 🖲  Find my games at [voec.itch.io](https://voec.itch.io/)
 * 🚂 And [Glorious Trainwrecks](https://www.glorioustrainwrecks.com/games/*/pferd-am-herd)
 * 🍃 Pronouns: they/them
