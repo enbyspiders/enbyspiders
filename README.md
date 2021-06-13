@@ -6,7 +6,7 @@ Do you like AutoHotkey?!??!?!
 
 Then you've come to the right place.
 
-* 🖲  Find my games at [voec.itch.io](https://voec.itch.io/)
+* 🖲  Find my games at [spiderzone.itch.io](https://spiderzone.itch.io/)
 * 🚂 And [Glorious Trainwrecks](https://www.glorioustrainwrecks.com/games/*/pferd-am-herd)
 * 🍃 Pronouns: they/them
 * 🐍 Profile image is cover of ```serpentwithfeet - soil```
