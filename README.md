@@ -1,7 +1,7 @@
 ### Hi there~ 🕷
 
 Do the bone grinders of eternal punishment please you?  
-Do you savour the hot domination of being enveloped by the many spiders???  
+Do you savour the hot domination of being enveloped by the many-spiders???  
 Do you like AutoHotkey?!??!?!
 
 Then you've come to the right place.
