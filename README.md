@@ -36,10 +36,9 @@ Then you've come to the right place.
   <a href="https://www.11ty.dev/" target="_blank"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a>
   
 <a href="https://github.com/jstrieb/github-stats">
-  
-![Spider's Github Staticists](https://github.com/voec/github-stats/blob/master/generated/overview.svg)</a>
-<a href="https://github.com/jstrieb/github-stats">![Coding Languages Used by Spiders](https://github.com/voec/github-stats/blob/master/generated/languages.svg)</a>
 
+![](https://raw.githubusercontent.com/enbyspiders/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/enbyspiders/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Wario's Top Tips for Summer: ![wario](https://user-images.githubusercontent.com/2915643/112637764-c938ee00-8e3e-11eb-91d7-b84460134509.png)
 1. Trans rights are human rights
